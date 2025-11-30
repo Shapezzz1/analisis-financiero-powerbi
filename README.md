@@ -18,7 +18,7 @@ Este proyecto analiza los datos de ventas de una empresa ficticia para identific
 3.  **Estacionalidad:** Se detectaron picos de venta críticos en Junio, Octubre y Diciembre.
 
 ## 📊 Visualización
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png)
 
 
 ---
